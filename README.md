@@ -1,6 +1,6 @@
 # Speaker Portal Reconstruction
 
-This is a reconstructed WordPress plugin bundle based on the portal requirements available in chat history, not a byte-for-byte recovery of your original plugin files.
+This is a reconstructed WordPress plugin I wrote based on the portal requirements available in chat history, not a byte-for-byte recovery of your original plugin files.
 
 ## What it includes
 
