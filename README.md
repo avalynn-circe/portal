@@ -1,6 +1,4 @@
-# Speaker Portal Reconstruction
-
-This is an AI reconstruction :/ of a WordPress plugin I wrote based on the portal requirements available in chat history, not a byte-for-byte recovery of my original plugin files.
+# Speaker Portal Reconstruction.
 
 ## What it includes
 
